@@ -1,5 +1,5 @@
 import {FormEvent, useState} from "react"
-import DominoComponent from "@/utils/DominoComponent"
+import DominoComponent from "@/components/DominoComponent"
 import dominoSource from "../utils/source.json"
 
 function Dominoes() {
